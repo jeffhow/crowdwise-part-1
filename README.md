@@ -1,7 +1,7 @@
 # crowdwise-part-1
 CrowdWise is an applied learning project
 
-![home page](images/home.png)
+![home page](design/home.png)
 
 ## General Design info
 Here are the specs
@@ -41,9 +41,9 @@ Ask for help. If you are stuck on anything for longer than 8 minutes, ask me.
 
 
 ## Step 1
-After cloning the repository, begin coding your home page. 
+After cloning the repository, begin coding your home page (`index.html`). 
 
-![home page](images/home.png)
+![home page](design/home.png)
 
 1. Code the HTML in "sections"
 2. Code the HTML using class selectors
@@ -51,14 +51,14 @@ After cloning the repository, begin coding your home page.
 ## Step 2
 Code (HTML/CSS) the vote page. Reuse the header and footer HTML. Use the same CSS file for all pages.
 
-![vote page](images/vote.png)
+![vote page](design/vote.png)
 
 ## Step 3
 Code (HTML/CSS) the new-question page. Reuse the header and footer HTML. Use the same CSS file for all pages.
 
-![new-question page](images/new-question.png)
+![new-question page](design/new-question.png)
 
 ## Step 4
 Code (HTML/CSS) the sign-in page.
 
-![sign-in page](images/sign-in.png)
+![sign-in page](design/sign-in.png)
